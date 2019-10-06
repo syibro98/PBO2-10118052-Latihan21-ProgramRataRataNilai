@@ -7,7 +7,7 @@
  * KELAS     : PBO2
  * NIM       : 10118052
  * Deskripsi Program : Program ini bertujuan untuk mengethaui nilai rata rata 
- * dari mahasiswa menggunakan looping for.
+ * dari mahasiswa menggunakan looping for
  * 
  */
  ```
